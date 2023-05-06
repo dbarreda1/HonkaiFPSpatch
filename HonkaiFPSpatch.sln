@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "HonkaiFPSpatch", "HonkaiFPSpatch\HonkaiFPSpatch.vcxproj", "{03624C44-40D7-485F-B41B-1E7A1668345F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{03624C44-40D7-485F-B41B-1E7A1668345F}.Debug|x64.ActiveCfg = Debug|x64
+		{03624C44-40D7-485F-B41B-1E7A1668345F}.Debug|x64.Build.0 = Debug|x64
+		{03624C44-40D7-485F-B41B-1E7A1668345F}.Debug|x86.ActiveCfg = Debug|Win32
+		{03624C44-40D7-485F-B41B-1E7A1668345F}.Debug|x86.Build.0 = Debug|Win32
+		{03624C44-40D7-485F-B41B-1E7A1668345F}.Release|x64.ActiveCfg = Release|x64
+		{03624C44-40D7-485F-B41B-1E7A1668345F}.Release|x64.Build.0 = Release|x64
+		{03624C44-40D7-485F-B41B-1E7A1668345F}.Release|x86.ActiveCfg = Release|Win32
+		{03624C44-40D7-485F-B41B-1E7A1668345F}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F5CBA3D1-906F-46F7-B92D-8FECAF556769}
+	EndGlobalSection
+EndGlobal
